@@ -34,7 +34,7 @@ El proyecto está estructurado en tres notebooks:
 - **01_limpieza_datos.ipynb**  
   Carga del dataset, revisión de la estructura de los datos y proceso de limpieza (valores nulos, tipos de datos y variables relevantes).
 
-- **02_eda.ipynb**  
+- **02_exploracion_datos.ipynb**  
   Análisis exploratorio de las ventas, clientes y productos mediante estadísticas descriptivas y visualizaciones.
 
 - **03_conclusiones_y_kpis.ipynb**  
