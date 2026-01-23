@@ -63,7 +63,7 @@ El proyecto está estructurado en tres notebooks:
 
 ## 🔗 Contacto
 - **LinkedIn:** https://www.linkedin.com/in/sergio-naranjo-burgo-a75832398/
-- **GitHub:** https://github.com/tu-usuario
+- **GitHub:** https://github.com/sergio17DS
 
 ---
 
